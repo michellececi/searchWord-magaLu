@@ -1,0 +1,23 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "magalu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michellececi/searchWord.git"
+  },
+  "author": "michelle ceci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michellececi/searchWord/issues"
+  },
+  "homepage": "https://github.com/michellececi/searchWord#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {}
+}
