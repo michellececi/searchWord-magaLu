@@ -6,7 +6,7 @@
   
 ## Instalação
   1. Clone o repositório: `git clone https://github.com/michellececi/searchWord-magaLu.git`
-  2. Navegue até o diretório do projeto: `cd searchWord`
+  2. Navegue até o diretório do projeto: `cd searchWord-magaLu`
   3. Instale as dependências: `npm install`
   
 ## Uso
